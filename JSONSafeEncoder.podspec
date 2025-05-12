@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'JSONSafeEncoder'
-  s.module_name      = 'JSONSafeEncoder'
+  s.name             = 'JSONSafeEncoding'
+  s.module_name      = 'JSONSafeEncoding'
   s.version          = '1.0.2'
   s.summary          = 'JSONSafeEncoder Cocoapods support.'
   s.homepage         = 'https://github.com/ay8s/JSONSafeEncoder-Swift'
